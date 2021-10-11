@@ -28,3 +28,6 @@ console.log(verdict);
 // why is plotTwist not called? added declaration in plotTwist if that is removed it makes -
 //The murderer is Miss Scarlet.
 
+// plotTwist function can not be executed because of error is trying to reassign a new variable with the name of an existing one
+// therefor the murderer remains assigned to  Mr. Green
+
