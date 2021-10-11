@@ -10,3 +10,6 @@ const scenario = {
   
   const verdict = declareMurderer();
   console.log(verdict);
+
+
+  // This code will show that - The murderer is Miss Scarlet.
