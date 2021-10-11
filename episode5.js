@@ -17,5 +17,6 @@ const scenario = {
   console.log(verdict);
 
 // WRONG - changeWeapon function can not change Candle Stick to a Revolver. 
-// The weapon is the Revolver.
+// The weapon is the Revolver because changeWeapon is reassigning to the same sort of variable, not changing the make up of the const scenario dictionary
+
 
